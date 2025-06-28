@@ -8,3 +8,6 @@ JS Functions:
     003_loanQualificationChecker
     004_leapYearCalculator
     005_truncateString
+
+JS Arrays:
+    006_shoppingList
